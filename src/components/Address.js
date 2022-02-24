@@ -1,5 +1,6 @@
 import React from "react";
-const App = () => {
+import { Form} from "react-bootstrap";
+const Address = () => {
  return (
    <>
                    <Form>
@@ -12,5 +13,5 @@ const App = () => {
    </>
  );
 };
-export default App;
+export default Address;
 
